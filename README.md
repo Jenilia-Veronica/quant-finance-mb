@@ -45,4 +45,4 @@ git clone https://github.com/Jenilia-Veronica/quant-finance-mb.git
 cd quant-finance-mb
 
 # Run a Python file (example)
-python Phase1-Foundations/Chapter01-TVM/simple_interest.py
+python Phase1-Foundations/Chapter01-TVM/code_snippets.ipynb
