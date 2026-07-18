@@ -8,9 +8,9 @@ Code repository for my journey through **Michael Brenndoerfer's Quantitative Fin
 
 ##  Current Progress
 - **Phase 1: Mathematical Foundations** → In Progress
-- Completed: Time Value of Money (Simple Interest)
+- Completed: Time Value of Money (Future Value and Compounding, Present Value and Discounting)
 
-**Total Chapters Completed**: 1 / 79
+**Total Chapters Completed**: 0 / 79
 
 ---
 
