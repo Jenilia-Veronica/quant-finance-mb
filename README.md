@@ -2,12 +2,12 @@
 
 Code repository for my journey through **Michael Brenndoerfer's Quantitative Finance** book.
 
-**Goal**: Build strong foundations in mathematical finance, derivatives pricing, portfolio theory, risk management, and production trading systems while preparing for quant internships (researcher/analyst/developer/trader roles).
+**Goal**: Build strong foundations in mathematical finance, derivatives pricing, portfolio theory, risk management, and production trading systems.
 
 ---
 
 ##  Current Progress
-- **Phase 1: Mathematical Foundations** → In Progress
+- **Part 1: Mathematical Foundations** → In Progress
 - Completed: Time Value of Money (Future Value and Compounding, Present Value and Discounting)
 
 **Total Chapters Completed**: 0 / 79
@@ -15,7 +15,7 @@ Code repository for my journey through **Michael Brenndoerfer's Quantitative Fin
 ---
 
 ##  Tech Stack
-- **Languages**: Python 3, C++ (performance implementations)
+- **Languages**: Python 3.
 - **Tools**: VS Code, Git, GitHub, Jupyter Notebooks
 - **Libraries**: NumPy, pandas, Matplotlib (will be added as needed)
 
