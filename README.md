@@ -8,12 +8,12 @@ Code repository for my journey through **Michael Brenndoerfer's Quantitative Fin
 
 ## 📍 Current Progress
 
-- **Part 1: Mathematical Foundations** → In Progress
+- **Part 1: Mathematical Foundations** → In Progress  
 - Completed:
   - Chapter 1 – Time Value of Money (Future Value, Present Value, Compounding & Discounting)
   - Chapter 2 – Probability Theory Fundamentals (Basic Probability, States & Probability Distributions)
 
-**Total Chapters Completed**: 1 / 79
+**Total Chapters Completed**: 2 / 79
 
 ---
 
