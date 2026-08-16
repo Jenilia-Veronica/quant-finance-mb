@@ -25,7 +25,6 @@ Total Chapters Completed: 2 / 79
 ---
 
 ## 📁 Repository Structure
-```bash
 quant-finance-mb/
 ├── README.md
 └── Part1-Mathematical-Foundations/
