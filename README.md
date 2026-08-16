@@ -25,10 +25,9 @@ Total Chapters Completed: 2 / 79
 ---
 
 ## 📁 Repository Structure
+
 quant-finance-mb/
-
 ├── README.md
-
 └── Part1-Mathematical-Foundations/
 
     ├── Chapter01-TVM/
