@@ -55,7 +55,7 @@ quant-finance-mb/
 
 ## How to Run
 
-`bash
+```bash
 # Clone the repository
 git clone https://github.com/Jenilia-Veronica/quant-finance-mb.git
 cd quant-finance-mb
@@ -65,3 +65,5 @@ jupyter notebook "Part1-Mathematical-Foundations/Chapter01-TVM/code_snippets.ipy
 
 # Chapter 2 – Probability Theory
 jupyter notebook "Part1-Mathematical-Foundations/Chapter02-Probability/code_prob.ipynb"
+
+```
