@@ -25,6 +25,7 @@ Total Chapters Completed: 2 / 79
 ---
 
 ## 📁 Repository Structure
+
 ```
 quant-finance-mb/
 ├── README.md
@@ -35,7 +36,7 @@ quant-finance-mb/
     │   └── .gitignore
     └── Chapter02-Probability/
         └── code_prob.ipynb
----
+```
 
 ## 🚀 Featured Projects
 
