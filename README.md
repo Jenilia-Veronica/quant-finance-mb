@@ -26,12 +26,16 @@ Total Chapters Completed: 2 / 79
 
 ## 📁 Repository Structure
 quant-finance-mb/
+
 ├── README.md
+
 └── Part1-Mathematical-Foundations/
+
     ├── Chapter01-TVM/
     │   ├── code_snippets.ipynb
     │   ├── requirements.txt
     │   └── .gitignore
+    
     └── Chapter02-Probability/
         └── code_prob.ipynb
 ---
