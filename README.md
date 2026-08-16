@@ -2,8 +2,7 @@
 
 Code repository for my journey through Michael Brenndoerfer's Quantitative Finance book (79 chapters, 15 parts).
 
-Goal: Build strong foundations in mathematical finance, derivatives pricing, portfolio theory, risk management, and production trading systems while preparing for quant internships (researcher / analyst / developer / trader roles) in 7th semester at PSG Tech.
-
+Goal: Build strong foundations in mathematical finance, derivatives pricing, portfolio theory, risk management, and production trading systems.
 ---
 
 ## 📍 Current Progress
